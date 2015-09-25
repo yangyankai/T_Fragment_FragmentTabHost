@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/24 3:12:40
+  ~ Project: T_Fragment_FragmentTabHost
+  ~ File: selector_tab_background.xml
+  ~ Class: selector_tab_background.xml
+  ~ Module: app
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:drawable="@drawable/bg" android:state_pressed="true"/>
+    <item android:drawable="@drawable/bg2" android:state_selected="true"/>
+
+</selector>

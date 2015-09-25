@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/24 3:6:6
+  ~ Project: T_Fragment_FragmentTabHost
+  ~ File: tab_home_btn.xml
+  ~ Class: tab_home_btn.xml
+  ~ Module: app
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_launcher2" android:state_selected="true"/>
+    <item android:drawable="@drawable/ic_launcher"/>
+</selector>
